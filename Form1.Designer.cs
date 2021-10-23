@@ -102,7 +102,6 @@
             this.DatabaseNames.Name = "DatabaseNames";
             this.DatabaseNames.Size = new System.Drawing.Size(301, 165);
             this.DatabaseNames.TabIndex = 6;
-            this.DatabaseNames.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DatabaseNames_CellContentClick);
             // 
             // MergeButton
             // 

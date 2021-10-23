@@ -189,10 +189,5 @@ namespace AnnWorkTemplate
                 MessageBoxButtons.OK, 
                 MessageBoxIcon.Information);
         }
-
-        private void DatabaseNames_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
     }
 }

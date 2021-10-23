@@ -29,3 +29,4 @@ E:\Development\Source\repos\AnnWorkTemplate\obj\Debug\AnnWorkTemplate.exe.manife
 E:\Development\Source\repos\AnnWorkTemplate\obj\Debug\AnnWorkTemplate.application
 E:\Development\Source\repos\AnnWorkTemplate\obj\Debug\AnnWorkTemplate.exe
 E:\Development\Source\repos\AnnWorkTemplate\obj\Debug\AnnWorkTemplate.pdb
+E:\Development\Source\repos\AnnWorkTemplate\obj\Debug\AnnWorkTemplate.csproj.AssemblyReference.cache
