@@ -89,7 +89,7 @@ namespace AnnWorkTemplate
             
         }
 
-        private void ReplaceWordStub(string stubToReplace, string text, Word.Document wordDocument) //функция для поиска и замены текста в документе
+        private void ReplaceWordStub(string stubToReplace, string text, Word.Document wordDocument) //процедура для поиска и замены текста в документе
         {
             var range = wordDocument.Content;
             range.Find.ClearFormatting();
